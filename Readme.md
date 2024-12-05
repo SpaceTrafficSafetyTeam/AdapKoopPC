@@ -22,7 +22,7 @@ The use of connected automated vehicle (CAV) is advocated to mitigate traffic os
 ## Framework
 
 **“The model architecture of AdapKoopnet”** .
-![framework](https://github.com/SpaceTrafficSafetyTeam/PeMTFLN/blob/main/framework.pdf)
+![framework](https://github.com/SpaceTrafficSafetyTeam/AdapKoopPC/blob/main/AdapKoopnet.png)
 
 
 
