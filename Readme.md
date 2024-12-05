@@ -1,4 +1,4 @@
-#  HLTP: A Cognitive-Based Trajectory Prediction Approach for Autonomous Driving
+#  A scalable adaptive deep Koopman predictive controller for real-time optimization of mixed traffic flow
 
 ## Overview
 The code repository for the study titled **"A scalable adaptive deep Koopman predictive controller for real-time optimization of mixed traffic flow"** will be made available upon acceptance of the manuscript.
