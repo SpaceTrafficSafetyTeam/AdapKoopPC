@@ -18,7 +18,7 @@ The use of connected automated vehicle (CAV) is advocated to mitigate traffic os
 ## Framework
 
 **"The model architecture of AdapKoopnet"**
-![framework](./figures/AdapKoopnet.png)
+![framework](./blob/main/AdapKoopnet.png)
 
 ## Simulation Results
 
