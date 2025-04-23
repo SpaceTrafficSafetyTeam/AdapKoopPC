@@ -25,11 +25,11 @@ The use of connected automated vehicle (CAV) is advocated to mitigate traffic os
 Below are some simulation results from our experiments:
 
 **Velocity Profiles**
-![Velocity Profiles](./figures/velocity_profile.png)
+![Velocity Profiles](./velocity_profile.png)
 *Figure 1: The mixed traffic flow velocity evolution comparison under different control methods*
 
 **Space-Time Diagram**
-![Mixed Traffic Flow Evolution](./figures/Flow.png)
+![Mixed Traffic Flow Evolution](./Flow.png)
 *Figure 2: The mixed traffic flow evolution with AdapKoopPC under different CAVs penetration rates*
 
 ## Environment and Installation
